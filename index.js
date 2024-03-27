@@ -18,7 +18,7 @@ const pool = new Pool({
   user: 'postgres',//change your username
     host: 'localhost',//change your host
     database: 'dir_watcher',//change your database name
-    password: '3110',//your password
+    password: '****',//your password
     port: 5432,//change your port no which database running port
 });
 console.log(__dirname)
