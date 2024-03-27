@@ -1,0 +1,2 @@
+This is an example file for testing this application.
+The magic string to search for is 'test'.
